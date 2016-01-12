@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9E771325128DF13B0365B6922E9B9B86F914EFF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9E771325128DF13B0365B6922E9B9B86F914EFF8" : 0,
+    "FC3ECE7425CBF07A45C71F1BECF7B6AB885A6C2C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1204CC32-50D6-4636-8569-4C6C176AAF50",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9E771325128DF13B0365B6922E9B9B86F914EFF8" : "SillyAppFinal\/",
+    "FC3ECE7425CBF07A45C71F1BECF7B6AB885A6C2C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SillyAppFinal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SillyAppFinal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/denonbarton\/SillyAppFinal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E771325128DF13B0365B6922E9B9B86F914EFF8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/denonbarton\/AfternoonIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC3ECE7425CBF07A45C71F1BECF7B6AB885A6C2C"
+    }
+  ]
+}
